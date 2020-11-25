@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README
 ======
 
@@ -46,3 +47,6 @@ No pull requests will be accepted for this repository, as it is meant to be used
 
 It is highly recommended that you fork this project on GitHub so that you have full admin access to your own fork.  This way you can practice with pushes and pull requests to see how they are done.
 Be sure to have your SSH key set up and that your public key (located in ~/.ssh/id_rsa.pub) is added to your GitHub account.
+=======
+# testrepo
+>>>>>>> 37e2483fff72b124cbc4876685819fad1d2e34d9
